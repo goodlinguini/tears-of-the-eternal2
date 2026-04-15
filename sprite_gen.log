@@ -1,0 +1,183 @@
+[00:43:05] Starting sprite generation — 59 sprites to generate
+[00:43:05] Output: C:\Users\goodl\sprites
+[00:43:05] --- [1/59] boss_moms_heart.png ---
+[00:43:05] Generating: boss_moms_heart.png
+[00:43:30]   Saved: C:\Users\goodl\sprites\boss_moms_heart.png
+[00:43:30] --- [2/59] enemy_gaper.png ---
+[00:43:30] Generating: enemy_gaper.png
+[00:43:55]   Saved: C:\Users\goodl\sprites\enemy_gaper.png
+[00:43:55] --- [3/59] enemy_fly.png ---
+[00:43:55] Generating: enemy_fly.png
+[00:45:01]   Saved: C:\Users\goodl\sprites\enemy_fly.png
+[00:45:01] --- [4/59] enemy_spider.png ---
+[00:45:01] Generating: enemy_spider.png
+[00:45:26]   Saved: C:\Users\goodl\sprites\enemy_spider.png
+[00:45:26] --- [5/59] enemy_mushroom.png ---
+[00:45:26] Generating: enemy_mushroom.png
+[00:45:51]   Saved: C:\Users\goodl\sprites\enemy_mushroom.png
+[00:45:51] --- [6/59] enemy_horf.png ---
+[00:45:51] Generating: enemy_horf.png
+[00:47:20]   Saved: C:\Users\goodl\sprites\enemy_horf.png
+[00:47:20] --- [7/59] enemy_leech.png ---
+[00:47:20] Generating: enemy_leech.png
+[00:47:45]   Saved: C:\Users\goodl\sprites\enemy_leech.png
+[00:47:45] --- [8/59] enemy_clotty.png ---
+[00:47:45] Generating: enemy_clotty.png
+[00:48:10]   Saved: C:\Users\goodl\sprites\enemy_clotty.png
+[00:48:10] --- [9/59] enemy_knight.png ---
+[00:48:10] Generating: enemy_knight.png
+[00:48:35]   Saved: C:\Users\goodl\sprites\enemy_knight.png
+[00:48:35] --- [10/59] enemy_bomb_fly.png ---
+[00:48:35] Generating: enemy_bomb_fly.png
+[00:49:00]   Saved: C:\Users\goodl\sprites\enemy_bomb_fly.png
+[00:49:00] --- [11/59] enemy_angel.png ---
+[00:49:00] Generating: enemy_angel.png
+[00:49:25]   Saved: C:\Users\goodl\sprites\enemy_angel.png
+[00:49:25] --- [12/59] enemy_tumor.png ---
+[00:49:25] Generating: enemy_tumor.png
+[00:49:58]   Saved: C:\Users\goodl\sprites\enemy_tumor.png
+[00:49:58] --- [13/59] item_sad_onion.png ---
+[00:49:58] Generating: item_sad_onion.png
+[00:50:07]   Saved: C:\Users\goodl\sprites\item_sad_onion.png
+[00:50:07] --- [14/59] item_inner_eye.png ---
+[00:50:07] Generating: item_inner_eye.png
+[00:50:16]   Saved: C:\Users\goodl\sprites\item_inner_eye.png
+[00:50:16] --- [15/59] item_spoon_bender.png ---
+[00:50:16] Generating: item_spoon_bender.png
+[00:50:32]   Saved: C:\Users\goodl\sprites\item_spoon_bender.png
+[00:50:32] --- [16/59] item_crickets_head.png ---
+[00:50:32] Generating: item_crickets_head.png
+[00:50:41]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 464bb043-6493-4eed-bd90-3be5602f7c65 failed: no images were generated'}
+[00:50:41] --- [17/59] item_my_little_unicorn.png ---
+[00:50:41] Generating: item_my_little_unicorn.png
+[00:50:49]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node befc4ee8-47e1-4abf-bdaa-a96440047a47 failed: no images were generated'}
+[00:50:49] --- [18/59] item_the_wafer.png ---
+[00:50:49] Generating: item_the_wafer.png
+[00:50:58]   Saved: C:\Users\goodl\sprites\item_the_wafer.png
+[00:50:58] --- [19/59] item_brimstone.png ---
+[00:50:58] Generating: item_brimstone.png
+[00:51:06]   Saved: C:\Users\goodl\sprites\item_brimstone.png
+[00:51:06] --- [20/59] item_moms_knife.png ---
+[00:51:06] Generating: item_moms_knife.png
+[00:51:15]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 239d01c3-3e40-49d7-b8ac-f149a2e850ca failed: no images were generated'}
+[00:51:15] --- [21/59] item_polyphemus.png ---
+[00:51:15] Generating: item_polyphemus.png
+[00:51:23]   Saved: C:\Users\goodl\sprites\item_polyphemus.png
+[00:51:23] --- [22/59] item_sacred_heart.png ---
+[00:51:23] Generating: item_sacred_heart.png
+[00:51:32]   Saved: C:\Users\goodl\sprites\item_sacred_heart.png
+[00:51:32] --- [23/59] item_dead_cat.png ---
+[00:51:32] Generating: item_dead_cat.png
+[00:51:41]   Saved: C:\Users\goodl\sprites\item_dead_cat.png
+[00:51:41] --- [24/59] item_whore_of_babylon.png ---
+[00:51:41] Generating: item_whore_of_babylon.png
+[00:51:49]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 55160fd3-f80d-4ffe-ab1c-18b2b2f9238d failed: no images were generated'}
+[00:51:49] --- [25/59] item_epic_fetus.png ---
+[00:51:49] Generating: item_epic_fetus.png
+[00:51:58]   Saved: C:\Users\goodl\sprites\item_epic_fetus.png
+[00:51:58] --- [26/59] item_ipecac.png ---
+[00:51:58] Generating: item_ipecac.png
+[00:52:06]   Saved: C:\Users\goodl\sprites\item_ipecac.png
+[00:52:06] --- [27/59] item_dr_fetus.png ---
+[00:52:06] Generating: item_dr_fetus.png
+[00:52:15]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node b5b01ad0-e208-4309-93ff-2ffb7510159f failed: no images were generated'}
+[00:52:15] --- [28/59] item_holy_mantle.png ---
+[00:52:15] Generating: item_holy_mantle.png
+[00:52:23]   Saved: C:\Users\goodl\sprites\item_holy_mantle.png
+[00:52:23] --- [29/59] item_scapular.png ---
+[00:52:23] Generating: item_scapular.png
+[00:52:32]   Saved: C:\Users\goodl\sprites\item_scapular.png
+[00:52:32] --- [30/59] item_aries.png ---
+[00:52:32] Generating: item_aries.png
+[00:52:40]   Saved: C:\Users\goodl\sprites\item_aries.png
+[00:52:40] --- [31/59] item_cancer.png ---
+[00:52:40] Generating: item_cancer.png
+[00:52:49]   Saved: C:\Users\goodl\sprites\item_cancer.png
+[00:52:49] --- [32/59] item_magic_mushroom.png ---
+[00:52:49] Generating: item_magic_mushroom.png
+[00:52:57]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 573fb16c-0de7-4f52-af37-dd927e21a704 failed: no images were generated'}
+[00:52:57] --- [33/59] item_crickets_body.png ---
+[00:52:57] Generating: item_crickets_body.png
+[00:53:06]   Saved: C:\Users\goodl\sprites\item_crickets_body.png
+[00:53:06] --- [34/59] item_lump_of_coal.png ---
+[00:53:06] Generating: item_lump_of_coal.png
+[00:53:15]   Saved: C:\Users\goodl\sprites\item_lump_of_coal.png
+[00:53:15] --- [35/59] item_blood_of_martyr.png ---
+[00:53:15] Generating: item_blood_of_martyr.png
+[00:53:23]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 8042aa2b-0c51-4a06-b6f3-16d4f353a144 failed: no images were generated'}
+[00:53:23] --- [36/59] item_the_compass.png ---
+[00:53:23] Generating: item_the_compass.png
+[00:53:32]   Saved: C:\Users\goodl\sprites\item_the_compass.png
+[00:53:32] --- [37/59] item_rock_bottom.png ---
+[00:53:32] Generating: item_rock_bottom.png
+[00:53:40]   Saved: C:\Users\goodl\sprites\item_rock_bottom.png
+[00:53:40] --- [38/59] item_spirit_sword.png ---
+[00:53:40] Generating: item_spirit_sword.png
+[00:53:49]   Saved: C:\Users\goodl\sprites\item_spirit_sword.png
+[00:53:49] --- [39/59] item_trisagion.png ---
+[00:53:49] Generating: item_trisagion.png
+[00:54:06]   Saved: C:\Users\goodl\sprites\item_trisagion.png
+[00:54:06] --- [40/59] item_incubus.png ---
+[00:54:06] Generating: item_incubus.png
+[00:54:14]   Saved: C:\Users\goodl\sprites\item_incubus.png
+[00:54:14] --- [41/59] item_twisted_pair.png ---
+[00:54:14] Generating: item_twisted_pair.png
+[00:54:23]   Saved: C:\Users\goodl\sprites\item_twisted_pair.png
+[00:54:23] --- [42/59] item_void.png ---
+[00:54:23] Generating: item_void.png
+[00:54:32]   Saved: C:\Users\goodl\sprites\item_void.png
+[00:54:32] --- [43/59] item_thunder_thighs.png ---
+[00:54:32] Generating: item_thunder_thighs.png
+[00:54:40]   Saved: C:\Users\goodl\sprites\item_thunder_thighs.png
+[00:54:40] --- [44/59] item_missing_page.png ---
+[00:54:40] Generating: item_missing_page.png
+[00:54:49]   Saved: C:\Users\goodl\sprites\item_missing_page.png
+[00:54:49] --- [45/59] item_cake.png ---
+[00:54:49] Generating: item_cake.png
+[00:54:58]   Saved: C:\Users\goodl\sprites\item_cake.png
+[00:54:58] --- [46/59] item_tech_x.png ---
+[00:54:58] Generating: item_tech_x.png
+[00:55:06]   Saved: C:\Users\goodl\sprites\item_tech_x.png
+[00:55:06] --- [47/59] item_guillotine.png ---
+[00:55:06] Generating: item_guillotine.png
+[00:55:15]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node e1a8e98c-5481-4a01-8e65-0f728d374e47 failed: no images were generated'}
+[00:55:15] --- [48/59] item_bone_tears.png ---
+[00:55:15] Generating: item_bone_tears.png
+[00:55:23]   Saved: C:\Users\goodl\sprites\item_bone_tears.png
+[00:55:23] --- [49/59] item_soul_jar.png ---
+[00:55:23] Generating: item_soul_jar.png
+[00:55:32]   Saved: C:\Users\goodl\sprites\item_soul_jar.png
+[00:55:32] --- [50/59] item_beelzebuls_wing.png ---
+[00:55:32] Generating: item_beelzebuls_wing.png
+[00:55:41]   Saved: C:\Users\goodl\sprites\item_beelzebuls_wing.png
+[00:55:41] --- [51/59] item_cursed_penny.png ---
+[00:55:41] Generating: item_cursed_penny.png
+[00:55:50]   Saved: C:\Users\goodl\sprites\item_cursed_penny.png
+[00:55:50] --- [52/59] item_pluto.png ---
+[00:55:50] Generating: item_pluto.png
+[00:55:58]   Saved: C:\Users\goodl\sprites\item_pluto.png
+[00:55:58] --- [53/59] item_glowing_hourglass.png ---
+[00:55:58] Generating: item_glowing_hourglass.png
+[00:56:07]   Saved: C:\Users\goodl\sprites\item_glowing_hourglass.png
+[00:56:07] --- [54/59] item_cracked_crown.png ---
+[00:56:07] Generating: item_cracked_crown.png
+[00:56:15]   Saved: C:\Users\goodl\sprites\item_cracked_crown.png
+[00:56:15] --- [55/59] item_inner_child.png ---
+[00:56:15] Generating: item_inner_child.png
+[00:56:24]   Saved: C:\Users\goodl\sprites\item_inner_child.png
+[00:56:24] --- [56/59] item_spirit_shackles.png ---
+[00:56:24] Generating: item_spirit_shackles.png
+[00:56:33]   Saved: C:\Users\goodl\sprites\item_spirit_shackles.png
+[00:56:33] --- [57/59] item_brain_worm.png ---
+[00:56:33] Generating: item_brain_worm.png
+[00:56:41]   FAILED: {'error_code': 'pipeline_failed', 'error': 'node 967ff3b5-299a-4e13-9894-da1f6e471090 failed: no images were generated'}
+[00:56:41] --- [58/59] item_tainted_heart.png ---
+[00:56:41] Generating: item_tainted_heart.png
+[00:56:50]   Saved: C:\Users\goodl\sprites\item_tainted_heart.png
+[00:56:50] --- [59/59] item_redemption.png ---
+[00:56:50] Generating: item_redemption.png
+[00:56:58]   Saved: C:\Users\goodl\sprites\item_redemption.png
+[00:56:58] 
+=== DONE === 50 succeeded, 9 failed
+[00:56:58] Failed: item_crickets_head.png, item_my_little_unicorn.png, item_moms_knife.png, item_whore_of_babylon.png, item_dr_fetus.png, item_magic_mushroom.png, item_blood_of_martyr.png, item_guillotine.png, item_brain_worm.png
+[00:56:58] Failed: item_crickets_head.png, item_my_little_unicorn.png, item_moms_knife.png, item_whore_of_babylon.png, item_dr_fetus.png, item_magic_mushroom.png, item_blood_of_martyr.png, item_guillotine.png, item_brain_worm.png
